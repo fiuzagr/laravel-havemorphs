@@ -1,7 +1,7 @@
 # Have Morphs trait for Laravel
 
 This is a PHP trait to work with 
-(Polymorphic Relations)[https://laravel.com/docs/5.2/eloquent-relationships#polymorphic-relations]
+[Polymorphic Relations](https://laravel.com/docs/5.2/eloquent-relationships#polymorphic-relations)
 more easily.
 
 ## Use
